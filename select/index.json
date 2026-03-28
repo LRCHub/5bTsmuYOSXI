@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Every Day with You",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-28T08:33:26.804979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Every Day With You Girl",
+      "artist": "Jacob Miller",
+      "has_synced": false,
+      "path": "select/01_Every_Day_With_You_Girl_Jacob_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "every day with you girl",
+      "artist": "classics iv",
+      "has_synced": true,
+      "path": "select/02_every_day_with_you_girl_classics_iv.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "every day with you,",
+      "artist": "NEIL FRANCES",
+      "has_synced": true,
+      "path": "select/03_every_day_with_you,_NEIL_FRANCES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Every Day With You Girl",
+      "artist": "Classics IV",
+      "has_synced": true,
+      "path": "select/04_Every_Day_With_You_Girl_Classics_IV.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Every Day With You Girl",
+      "artist": "Classics IV",
+      "has_synced": true,
+      "path": "select/05_Every_Day_With_You_Girl_Classics_IV.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Every Day with You (feat. Yellow Pato)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/06_Every_Day_with_You_(feat._Yellow_Pato)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Every Day With You Girl",
+      "artist": "Classics IV With Dennis Yost",
+      "has_synced": true,
+      "path": "select/07_Every_Day_With_You_Girl_Classics_IV_With_Dennis_Yost.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Talk to Jesus Every Day (with June Carter Cash)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/08_I_Talk_to_Jesus_Every_Day_(with_June_Carter_Cash)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne-Yo feat. Sonna Rele",
+      "has_synced": false,
+      "path": "select/09_Every_Day_With_Love_Ne-Yo_feat._Sonna_Rele.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/10_Every_Day_With_Love_Ne-Yo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne‐Yo feat. Sonna Rele",
+      "has_synced": false,
+      "path": "select/11_Every_Day_With_Love_Ne‐Yo_feat._Sonna_Rele.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Talk to Jesus Every Day (with June Carter Cash)",
+      "artist": "Johnny Cash/June Carter Cash",
+      "has_synced": true,
+      "path": "select/12_I_Talk_to_Jesus_Every_Day_(with_June_Carter_Cash)_Johnny_Cash_June_Carter_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne-Yo; Sonna Rele",
+      "has_synced": true,
+      "path": "select/13_Every_Day_With_Love_Ne-Yo;_Sonna_Rele.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne‐Yo",
+      "has_synced": false,
+      "path": "select/14_Every_Day_With_Love_Ne‐Yo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Every Day With Love Ft. Sonna Rele",
+      "artist": "@TheHiTs - NE-YO",
+      "has_synced": true,
+      "path": "select/15_Every_Day_With_Love_Ft._Sonna_Rele_@TheHiTs_-_NE-YO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne-Yo Ft. Sonna Rele",
+      "has_synced": false,
+      "path": "select/16_Every_Day_With_Love_Ne-Yo_Ft._Sonna_Rele.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Every Day With Love",
+      "artist": "Ne-Yo/Sonna",
+      "has_synced": true,
+      "path": "select/17_Every_Day_With_Love_Ne-Yo_Sonna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Grandpa In My Pocket - Every Day With Grandpa",
+      "artist": "CBeebies",
+      "has_synced": false,
+      "path": "select/18_Grandpa_In_My_Pocket_-_Every_Day_With_Grandpa_CBeebies.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Every Day with You (feat. Yellow Pato)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Every_Day_with_You_(feat._Yellow_Pato)_BAD_HOP.txt"
+    }
+  ]
+}
